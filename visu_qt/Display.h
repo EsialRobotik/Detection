@@ -1,9 +1,3 @@
-/*
- * DisplayPoints.h
- *
- *  Created on: 22 févr. 2017
- *      Author: T0132956
- */
 
 #ifndef NIARF_DISPLAY_H_
 #define NIARF_DISPLAY_H_

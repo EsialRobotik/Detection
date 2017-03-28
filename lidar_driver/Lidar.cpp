@@ -1,9 +1,3 @@
-/*
- * LidarPoints.cpp
- *
- *  Created on: 22 févr. 2017
- *      Author: T0132956
- */
 #include <cstdio>
 #include <iostream>
 #include <cstdlib>

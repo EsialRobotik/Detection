@@ -1,10 +1,3 @@
-/*
- * DisplayPoints.cpp
- *
- *  Created on: 22 févr. 2017
- *      Author: T0132956
- */
-
 #include "Display.h"
 #include <cstdio>
 #include <QtGui/QApplication>
